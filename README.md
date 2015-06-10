@@ -5,4 +5,3 @@ Frist version was a simple console line programm
 
 Next version will have a gui.
 
-commit into master
